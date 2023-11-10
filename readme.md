@@ -1,8 +1,6 @@
 # <span style= "color:red">Map of NC Public Schools & Districts</span>🏫
 
-<iframe src="index.html" height="500" width="500"></iframe>
-
-You can explore this map [as its own web page here](index.html).
+You can explore the map [as its own web page here](https://ulrichse.github.io/NC-Public-Schools/).
 
 #### <span style= "color:navy">Lab 06 Deliverable for GHY 5818</span>
 Sarah Ulrich
